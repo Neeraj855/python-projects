@@ -23,6 +23,8 @@ if len(email)>=6:
                         d=1
                 if k==1 or j==1 or d==1:
                     print('Wrond Email 5')
+                else:
+                    print("Your Email is correct")
             else:
                 print('Wrond Email 4')
         else:
